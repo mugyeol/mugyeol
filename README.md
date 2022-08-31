@@ -1,4 +1,3 @@
-<div align=center>
 
 # Hi, I Mugyeol !
 
